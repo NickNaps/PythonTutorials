@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "venv"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "c:\\Programming\\Python\\PythonTutorials\\venv"
+	}
+}
